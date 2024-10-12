@@ -124,11 +124,12 @@ print('R2 score on Test:', sgd_regressor.score(X_test_scaled, y_test))
 
 ## Comparison of Methods
 
-| Metric          | Normal Equation | Stochastic Gradient Descent |
-|-----------------|-----------------|-----------------------------|
-| MSE              | [MSE value]     | [MSE value]                 |
-| R2 Score (Train) | [R2 Train score]| [R2 Train score]            |
-| R2 Score (Test) | [R2 Test score] | [R2 Test score]             |
+| Metric                  | Normal Equation      | Stochastic Gradient Descent |
+|-------------------------|----------------------|-----------------------------|
+| MSE                     | 0.5558915986952442   | 0.5498444775439945          |
+| R2 Score (Train)       | 0.6125511913966952   | 0.6096034335419529          |
+| R2 Score (Test)        | 0.575787706032451    | 0.580402388358092           |
+
 
 ## Conclusion
 
