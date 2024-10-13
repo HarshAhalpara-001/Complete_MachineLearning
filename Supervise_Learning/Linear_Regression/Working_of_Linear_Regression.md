@@ -1,6 +1,3 @@
-
-Certainly! Below is a Markdown (.md) template that you can use to document your work on linear regression using both the Normal Equation and Stochastic Gradient Descent (SGD) methods. You can copy and paste this into your Markdown editor or Jupyter notebook.
-
 ```markdown
 # Linear Regression: Normal Equation vs. Stochastic Gradient Descent (SGD)
 
@@ -137,7 +134,3 @@ In this notebook, we compared the performance of linear regression using the Nor
 
 In general, for large datasets or high-dimensional data, SGD tends to be more efficient and scalable than the Normal Equation.
 ```
-
-### Note
-- Replace the placeholders `[MSE value]`, `[R2 Train score]`, and `[R2 Test score]` with the actual values you obtained from your computations.
-- You can format this Markdown document further based on your preferences or any specific guidelines you might have.
