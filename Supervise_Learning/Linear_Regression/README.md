@@ -1,4 +1,4 @@
-```markdown
+
 # Linear Regression: Normal Equation vs. Stochastic Gradient Descent (SGD)
 
 ## Introduction
