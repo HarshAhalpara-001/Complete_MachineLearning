@@ -45,4 +45,4 @@ Naive Bayes is a family of probabilistic algorithms based on applying Bayes' the
 | Bernoulli Naive Bayes    | Binary/Boolean           | Features are binary indicators          |
 | Complement Naive Bayes    | Count data               | Based on complementary counts for imbalanced classes |
 
-Each type of Naive Bayes classifier has its strengths and weaknesses, making it essential to choose the appropriate one based on the nature of the data and the specific problem being solved.
+Each type of Naive Bayes classifier has strengths and weaknesses, so it is essential to choose the appropriate one based on the nature of the data and the specific problem being solved.
